@@ -14,3 +14,9 @@ body{
 .titulo-destaque{
   COLOR:  #22D4FD;
 }
+
+
+.presentacion{
+  display: flex;
+  align-items: center;
+}
