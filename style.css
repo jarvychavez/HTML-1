@@ -79,5 +79,6 @@ body{
 .presentacion__enlaces__link:hover{
 
   background-color: #272727;
+  cursor: pointer;
   
 }
