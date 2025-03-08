@@ -53,12 +53,13 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 6% 15%;
+    padding: 5% 15%;
+    gap: 82px;
 }
 
 
 .presentacion__contenido{
-  width: 615px;
+  width: 50%;
   display:flex;
   flex-direction: column;
   gap: 40px;
@@ -92,7 +93,7 @@ body{
 
 
 .presentacion__enlaces__link{
-  width: 378px;
+  width: 50%;
   text-align: center;
   padding: 21.5px 0;
   border-radius: 8px;
@@ -112,6 +113,10 @@ body{
   background-color: var(--colo--hover);
   cursor: pointer;
   
+}
+
+.presentacion__imagen{
+  width: 50%;
 }
 
 .footer{
